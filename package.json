@@ -10,7 +10,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@adrianha/react-native-midtrans": "^1.0.0",
     "react": "17.0.2",
     "react-native": "0.65.1"
   },
